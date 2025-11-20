@@ -17,7 +17,7 @@ I'm a french developper from 2021.
 # What programming tools do I know/am learning?
 <img align="left" alt="Java " width="29,6px" src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" />
 <img align="left" alt="Docker " width="54,6px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
-<img align="left" alt="Redis " width="45,6px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" />
+<img align="left" alt="Redis " width="45,6px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Redis_Logo.svg/langfr-330px-Redis_Logo.svg.png" />
 <img align="left" alt="MySQL " width="45,6px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="RabbitMQ " width="45,6px" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" />
 <img align="left" alt="CSS " width="38,6px" height="42,2px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
